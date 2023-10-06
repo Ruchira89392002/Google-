@@ -1,8 +1,8 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
-    <h1 align="center">GURU-BOT 2.O</h1>
+    <img alt="Guru" height="300" src="https://telegra.ph/file/7c28b9d3cd667bfd69b75.jpg">
+    <h1 align="center">DS-BOT 2.O</h1>
   </a>
 </p>
 <p align="center">
@@ -28,7 +28,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 2. Get Session ID
     <br>
-<a href='https://replit.com/@Gurucharan-saho/GURU-BOT-PAIR?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@ruchirasuboda25/Dark-shadow-v2#Guru.sh' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
