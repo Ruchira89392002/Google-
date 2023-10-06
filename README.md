@@ -1,8 +1,8 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://telegra.ph/file/7c28b9d3cd667bfd69b75.jpg">
-    <h1 align="center">DS-BOT 2.O</h1>
+    <img alt="Guru" height="300" src="https://telegra.ph/file/7c28b9d3cd667bfd69b75.png">
+    <h1 align="center">GURU-BOT</h1>
   </a>
 </p>
 <p align="center">
@@ -26,9 +26,9 @@ GURU-BOT- Simple Multi Device whatsapp bot.
     <br>
 <a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2. Get Session ID
+2. Scan the QR and upload guru.data.json to your fork(will recieve it on your bot number after scanning)
     <br>
-<a href='https://replit.com/@ruchirasuboda25/Dark-shadow-v2#Guru.sh' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@ruchirasuboda25/Dark-shadow-v2#Guru.sh' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -37,20 +37,14 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 1. If You don't have an account in Heroku. Create a account.
     <br>
 <p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-2. Now Deploy
+
+2. Watch the following video to create Heroku acc for free.
     <br>
-<p align="center"><a href="https://gurubhai.is-a.dev"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=J_Sq5OxK8ZE"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-#### DEPLOY TO OKTETO 
-
-1. If You don't have an account On Okteto. Create a account.
+3. Now Deploy
     <br>
-<p align="center"><a href="https://www.okteto.com/pricing/?plan=SaaS"> <img src="https://img.shields.io/badge/Okteto%20Account-blue?style=for-the-badge&logo=okteto" width="220" height="38.45"/></a></p>
-
-2. Now Deploy
-    <br>
-<p align="center"><a href=""> <img src="https://img.shields.io/badge/Okteto%20Deploy-blue?style=for-the-badge&logo=okteto" width="220" height="38.45"/></a></p>
-
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Guru322/GURU-BOT"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 #### DEPLOY TO Replit 
 
@@ -60,8 +54,22 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://repl.it/github/Guru322/GURU-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://repl.it/github/avi453/GURU-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
+#### DEPLOY TO COOLIFY (Error occurs when server gets overloaded)
+
+1. If You don't have an account in Coolify. Create a account.
+    <br>
+<p align="center"><a href="http://65.21.52.72:3000/register"> <img src="https://img.shields.io/badge/coolify%20Account-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
+
+2. Now Deploy
+    <br>
+<p align="center"><a href="https://youtu.be/hBxSyqyeoFU"> <img src="https://img.shields.io/badge/Coolify%20Deploy-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
+
+
+ ## 📙 Guide
+
+ - [Termux Hosting Guide](https://github.com/Guru322/GURU-BOT/blob/main/Termux-Guide.md)
  
  
  ## 🤩 Support
@@ -70,7 +78,7 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 - Star ⭐ the repo if you like GURU-BOT.
 
-### TEAM GURU BOT
+## BASE OG BY [FG98](https://github.com/FG98F/dylux-fg)
 
 
-
+ **THANKS TO** |[GURU](https://github.com/Guru322/GURU-BOT) | 
